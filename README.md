@@ -1,5 +1,5 @@
 ## Introduction
-This is my second Java project, I've only used built in function in this project.
+A Java project, I've only used built in function in this project.
 
 ## Features
 - Book a flight
